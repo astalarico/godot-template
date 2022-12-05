@@ -10,7 +10,7 @@ config_version=4
 
 [application]
 
-config/name="Whiteout"
+config/name="Template"
 run/main_scene="res://Game Objects/State.tscn"
 config/icon="res://Assets/Sprites/icon.png"
 
