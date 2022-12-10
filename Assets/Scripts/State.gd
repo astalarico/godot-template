@@ -1,3 +1,4 @@
-extends Node
+extends Node2D
 
-# Game state variables and data in this file
+var VERSION = '0.0.1'
+var PLAYER_SPEED = 10

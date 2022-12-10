@@ -11,8 +11,13 @@ config_version=4
 [application]
 
 config/name="Template"
-run/main_scene="res://Game Objects/State.tscn"
+run/main_scene="res://Scenes/Main.tscn"
 config/icon="res://Assets/Sprites/icon.png"
+
+[autoload]
+
+State="*res://Assets/Scripts/State.gd"
+Utility="*res://Assets/Scripts/Utility.gd"
 
 [debug]
 
