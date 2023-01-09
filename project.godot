@@ -16,8 +16,8 @@ config/icon="res://Assets/Sprites/icon.png"
 
 [autoload]
 
-State="*res://Assets/Scripts/State.gd"
-Utility="*res://Assets/Scripts/Utility.gd"
+State="*res://Assets/Scripts/Global/State.gd"
+Utility="*res://Assets/Scripts/Global/Utility.gd"
 
 [debug]
 
